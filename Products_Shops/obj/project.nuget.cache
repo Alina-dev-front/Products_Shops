@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "cCBWg9ww3h5IK4nz+gnFYE+DkWTe9MxAVJ4PNGhJJb9TsYb2nvoFFs9e7IS51TFwIXFRF9Ki+Q0HO3X8MzzvoA==",
+  "dgSpecHash": "3kKHHPYMPvnGzzPyZruBt/6SdUQNTuw2I9euleSvH+QNjg4ptaoGtwUwqF+scWJcWNS9Kdh+Sv1Qka4P9Lq6hg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mr.X\\Documents\\Projects\\Products_Shops\\Products_Shops\\Products_Shops.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Mr.X\\.nuget\\packages\\csvhelper\\15.0.5\\csvhelper.15.0.5.nupkg.sha512",
+    "C:\\Users\\Mr.X\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -9,7 +9,10 @@ namespace Products_Shops
     {
         static void Main(string[] args)
         {
-
+            new Products().Demo();
+            /*new CSVFileHandler().Run();*/
+            
+            Console.WriteLine("Hello!");
         }
     }
 }

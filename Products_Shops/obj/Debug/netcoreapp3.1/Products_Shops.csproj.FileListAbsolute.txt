@@ -1,0 +1,15 @@
+C:\Users\Mr.X\Documents\Projects\Products_Shops\Products_Shops\bin\Debug\netcoreapp3.1\Products_Shops.exe
+C:\Users\Mr.X\Documents\Projects\Products_Shops\Products_Shops\bin\Debug\netcoreapp3.1\Products_Shops.deps.json
+C:\Users\Mr.X\Documents\Projects\Products_Shops\Products_Shops\bin\Debug\netcoreapp3.1\Products_Shops.runtimeconfig.json
+C:\Users\Mr.X\Documents\Projects\Products_Shops\Products_Shops\bin\Debug\netcoreapp3.1\Products_Shops.runtimeconfig.dev.json
+C:\Users\Mr.X\Documents\Projects\Products_Shops\Products_Shops\bin\Debug\netcoreapp3.1\Products_Shops.dll
+C:\Users\Mr.X\Documents\Projects\Products_Shops\Products_Shops\bin\Debug\netcoreapp3.1\Products_Shops.pdb
+C:\Users\Mr.X\Documents\Projects\Products_Shops\Products_Shops\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\Mr.X\Documents\Projects\Products_Shops\Products_Shops\obj\Debug\netcoreapp3.1\Products_Shops.csprojAssemblyReference.cache
+C:\Users\Mr.X\Documents\Projects\Products_Shops\Products_Shops\obj\Debug\netcoreapp3.1\Products_Shops.csproj.CoreCompileInputs.cache
+C:\Users\Mr.X\Documents\Projects\Products_Shops\Products_Shops\obj\Debug\netcoreapp3.1\Products_Shops.AssemblyInfoInputs.cache
+C:\Users\Mr.X\Documents\Projects\Products_Shops\Products_Shops\obj\Debug\netcoreapp3.1\Products_Shops.AssemblyInfo.cs
+C:\Users\Mr.X\Documents\Projects\Products_Shops\Products_Shops\obj\Debug\netcoreapp3.1\Products_Shops.csproj.CopyComplete
+C:\Users\Mr.X\Documents\Projects\Products_Shops\Products_Shops\obj\Debug\netcoreapp3.1\Products_Shops.dll
+C:\Users\Mr.X\Documents\Projects\Products_Shops\Products_Shops\obj\Debug\netcoreapp3.1\Products_Shops.pdb
+C:\Users\Mr.X\Documents\Projects\Products_Shops\Products_Shops\obj\Debug\netcoreapp3.1\Products_Shops.genruntimeconfig.cache

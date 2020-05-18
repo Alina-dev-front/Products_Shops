@@ -4,14 +4,9 @@ using System.Linq;
 
 namespace Products_Shops
 {
-    class Producers
+    public class Producers
     {
-        public enum ProducerLabel
-        {
-            Arla,
-            Nestle,
-            Nivea,
-            GoodFood
-        }
+        public int ProducerId { get; set; }
+        public string ProducerName { get; set; }
     }
 }
